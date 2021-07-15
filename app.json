@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lemoncash-challenge",
-    "slug": "lemoncash-challenge",
+    "name": "lemon-challenge",
+    "slug": "lemon-challenge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
